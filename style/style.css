@@ -110,10 +110,14 @@ body {
 .default-bg{
     background: url(../assets/tutorial/bg-2.svg);
 }
+
 .slide:last-child{
     background: url(../assets/tutorial/man-clicking-visualize.svg);
     background-size: 60% 60% !important;
 }
+
+
+
 .upper .slide{
     position: absolute;
     top: 0;
